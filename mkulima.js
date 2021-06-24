@@ -93,9 +93,9 @@
     let mkulima = newMkulima();
     mkulima.addfarm(3847,"Beldine.ltd",074323252);
 
-    console.log(Mkulima.addfarm);
-    console.log(Mkulima.removeFarm);
-    console.log(Mkulima.updateFarm);
-    console.log(Mkulima.calculateOrderCost);
-    console.log(Mkulima.printProduct);
-
+  console.log(mshamba.addfarm, 397362,"mkulima", "Solio",0734434123," P.O BOX Kericho");
+   console.log(mshamba.removeFarm, "Dk83900");
+   console.log(mshamba.updateFarm, "DK9309","Ketepe",073212342,Kay );
+   console.log(mshamba.calculateOrderCost, 5000);
+   console.log(mshamba.printProduct,"Rice",3734);
+   console.log(mshamba.updateProduct, "ma793","maize", 2400)
